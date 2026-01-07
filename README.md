@@ -1,12 +1,17 @@
 **AI-PROJECT**
+
 **Student Information**
 
 **Name: Aiza Saqib**
+
 **SAP ID: 70147247**
+
 **Section: BS-IET (I)**
+
 **Subject: Artificial Intelligence**
 
 **Project Title**
+
 **AI-Based Disease Prediction Using Blood Samples**
 
 **Project Overview**
@@ -20,37 +25,65 @@ Evaluation on completely unseen test data
 In addition to the AI model, the project includes a backend and frontend, allowing users to input blood test values and receive predictions in real time.
 
 **Key Features**
+
 Disease prediction using blood sample data
+
 Balanced Random Forest for fair classification
+
 Leakage-safe data preprocessing
+
 Proper label encoding without test contamination
+
 Noise injection to reduce overfitting
+
 Incremental tree training with early stopping
+
 Model accuracy display
+
 Confusion matrix visualization
+
 Feature importance analysis
+
 Interactive frontend connected to backend
 
 **Model Details**
+
 **Algorithm:** Balanced Random Forest
+
 **Reason:** Handles class imbalance effectively
+
 **Scaling:** Leakage-safe standardization
+
 **Encoding:** Label encoding without test data exposure
+
 **Evaluation:** Training, validation, and unseen test sets
 
+
 **Output**
+
 Disease prediction result
+
 Model accuracy
+
 Confusion matrix
+
 Feature importance visualization
 
+
 **Technologies Used**
+
 Python
+
 Pandas & NumPy
+
 Scikit-Learn
+
 Matplotlib & Seaborn
+
 Node.js (Backend)
+
 React + Vite (Frontend)
+
 
 
 
